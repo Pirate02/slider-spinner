@@ -2,7 +2,7 @@
 @import url('https://fonts.cdnfonts.com/css/poppins');
 
 html{
-    /* background: #000; */
+    background: #000;
 }
 
 .banner{
@@ -104,4 +104,8 @@ html{
     background-repeat: no-repeat;
     background-position: top center;
     z-index: 1;
+}
+
+.banner .content p{
+    color: antiquewhite;
 }
